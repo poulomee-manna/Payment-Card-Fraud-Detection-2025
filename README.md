@@ -40,8 +40,9 @@ This project analyzes customer transaction data to identify **spending patterns,
 
 Payment-Card-Fraud-Detection-2025/
 ├── README.md
-├── queries.sql
 ├── insights.md
+├── queries.sql
+├── transaction.csv
 
 ---
 
